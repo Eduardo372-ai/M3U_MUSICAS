@@ -1,4 +1,7 @@
 #EXTM3U
-1\Track1.mp3
-2\Track2.mp3
-3\Track3.mp3
+
+#EXTINF:0,1\Track1.mp3
+
+#EXTINF:0,2\Track2.mp3
+
+#EXTINF:0,3\Track3.mp3
